@@ -1,4 +1,4 @@
-## Carer UI prototype
-This is what the carer sees after logging in. Here they can manage the subscription for the patient. 
+## Patient settings UI
+We need a one-page easy edit for all kinds of more "static" patient info.
 
-This will eventually need to be a Drupal theme.
+This will eventually need to be a part of the Drupal theme.
